@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "hugo-doc.netlify.com"
 languageCode = "en-us"
 title = "LOLCODE Documentation"
 disableKinds = ["taxonomyTerm"]
